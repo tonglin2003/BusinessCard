@@ -77,6 +77,8 @@ fun BusinessCardText(message: String, name: String, email:String, modifier: Modi
     }
 }
 
+
+// testing for the github
 @Composable
 fun BusinessCardImage(message: String, name: String, email:String, modifier: Modifier = Modifier){
     val image = painterResource(R.drawable.businesscardlogo)
